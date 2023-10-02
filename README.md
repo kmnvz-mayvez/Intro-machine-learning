@@ -39,3 +39,9 @@ Unsupervised learning is another technique in machine learning that involves pre
 - **Data Dimension Reduction (Data Reduction):** Additionally, unsupervised learning is also used for data dimension reduction, which involves grouping input data into several sets of variables that are not correlated with each other. This simplifies the analysis of complex data.
 
 Unsupervised learning has various applications, including customer segmentation, cluster analysis, data dimension reduction, and understanding the structure of complex data.
+
+### Reinforcement Learning
+
+Reinforcement learning is a learning method that is based on rewarding desirable or undesirable decisions. Reinforcement learning is a technique that focuses on how agents or entities learn to make decisions to achieve certain goals. The agent interacts with the environment, takes actions, and receives rewards or punishments in response to its actions. The main goal of reinforcement learning is to learn policies that maximize rewards in the long term.
+
+Reinforcement learning has wide applications, including in the development of intelligent systems for controlling computer games, autonomous cars, and robotics.
