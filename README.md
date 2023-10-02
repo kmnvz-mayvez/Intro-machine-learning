@@ -1,13 +1,20 @@
-# Intro-machine_learning
-Machine learning adalah salah satu cabang dalam bidang kecerdasan buatan (Artificial Intelligence/AI) yang fokus pada pengembangan algoritma dan model komputer yang dapat belajar dari data. Tujuan utama dari machine learning adalah memungkinkan komputer untuk mengenali pola atau tren dalam data, dan kemudian menggunakan pemahaman ini untuk membuat prediksi atau pengambilan keputusan tanpa perlu pemrograman eksplisit.
+# Machine Learning Introduction
 
-# General step machine_learning 
-Pengumpulan Data: Data yang relevan dan berkualitas baik diperlukan untuk melatih model machine learning. Data ini bisa berupa teks, gambar, suara, atau jenis data lainnya.
+Machine learning is a branch of artificial intelligence (AI) that focuses on developing algorithms and computer models capable of learning from data. The primary goal of machine learning is to enable computers to recognize patterns or trends in data and then use this understanding to make predictions or decisions without the need for explicit programming.
 
-Pemilihan Fitur: Memilih fitur atau atribut yang paling penting dalam data untuk digunakan dalam pembuatan model.
+## General Steps in Machine Learning
 
-Pelatihan Model: Model machine learning dipelajari dari data pelatihan. Proses ini melibatkan penyesuaian parameter model sehingga model dapat memahami pola dalam data.
+Machine learning involves several key steps:
 
-Validasi dan Evaluasi: Model dievaluasi menggunakan data yang tidak digunakan selama pelatihan untuk mengukur seberapa baik model dapat melakukan tugas yang ditugaskan.
+1. **Data Collection:** Relevant and high-quality data is required to train machine learning models. This data can be in the form of text, images, audio, or other types of data.
 
-Prediksi atau Pengambilan Keputusan: Setelah pelatihan, model dapat digunakan untuk membuat prediksi atau keputusan berdasarkan data baru.
+2. **Feature Selection:** Selecting the most important features or attributes in the data to use in model creation.
+
+3. **Model Training:** Machine learning models are trained using the training data. This process involves adjusting model parameters so that the model can understand patterns in the data.
+
+4. **Validation and Evaluation:** Models are evaluated using data not used during training to measure how well they can perform the assigned tasks.
+
+5. **Prediction or Decision Making:** After training, models can be used to make predictions or decisions based on new data.
+
+These steps are fundamental to the practice of machine learning and are used across various domains, including data analysis, pattern recognition, natural language processing, computer vision, robotics control, predictive modeling, and more.
+
