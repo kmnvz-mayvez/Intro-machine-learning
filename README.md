@@ -59,3 +59,26 @@ When working with machine learning models, several factors can contribute to low
 - **Insufficient or Poor-Quality Training Data:** The quality and quantity of your training data play a vital role. Insufficient data can lead to underfitting, while an excessive amount can result in overfitting.
 
 Addressing these issues and fine-tuning your machine learning pipeline can lead to improved model performance and better results.
+
+## Objective Function
+The objective function is a mathematical function used to quantitatively assess the performance of a machine learning model.
+
+# Handling Data in Machine Learning
+
+## Discretization (Encoding)
+Discretization, or encoding, involves transforming a target variable that was originally numerical data into categorical data.
+
+## Handling NaN Values
+"NaN" stands for "not a number." Methods for dealing with NaN values include:
+- Removing data entities containing NaN values.
+- Replacing NaN values with appropriate data.
+
+## Rescaling Data
+Rescaling data aims to ensure that the values of data variables have the same scale or range. Rescaling is crucial and can involve:
+- Standardization, where each variable's values are transformed to have a mean of 0 and a standard deviation of 1 (often done with scikit-learn).
+- Normalization, where each variable's values are transformed to be within the interval [0,1].
+
+## Handling Categorical Variables
+Categorical variables can be either nominal (with no inherent order) or ordinal (with a specified order). Methods for handling them include:
+- Integer encoding, where each categorical value is represented by a number.
+- One-hot encoding, where each categorical value is represented as a vector of numbers, with one value being 1 to denote the category.
