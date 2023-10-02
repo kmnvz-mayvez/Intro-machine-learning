@@ -30,8 +30,6 @@ Supervised learning is one of the techniques in machine learning that involves p
 
 Supervised learning is commonly applied in various applications, including email spam classification, image recognition, and stock price prediction.
 
-## Machine Learning Techniques
-
 ### Unsupervised Learning
 
 Unsupervised learning is another technique in machine learning that involves predicting the target variable of new data without any labels.
@@ -39,5 +37,5 @@ Unsupervised learning is another technique in machine learning that involves pre
 - **Clustering Problems:** In unsupervised learning, clustering problems are used to group training data based on the proximity or similarity of features. The goal is to identify patterns or groups within the data without label information.
 
 - **Data Dimension Reduction (Data Reduction):** Additionally, unsupervised learning is also used for data dimension reduction, which involves grouping input data into several sets of variables that are not correlated with each other. This simplifies the analysis of complex data.
-- 
+
 Unsupervised learning has various applications, including customer segmentation, cluster analysis, data dimension reduction, and understanding the structure of complex data.
