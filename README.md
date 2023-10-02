@@ -2,6 +2,18 @@
 
 Machine learning is a branch of artificial intelligence (AI) that focuses on developing algorithms and computer models capable of learning from data. The primary goal of machine learning is to enable computers to recognize patterns or trends in data and then use this understanding to make predictions or decisions without the need for explicit programming.
 
+## Concept of Algorithms in Machine Learning
+
+In the context of machine learning algorithms, several key concepts play a vital role:
+
+1. **Representation:** Each transaction is represented by a set of features that capture the relevant information within the data.
+
+2. **Optimization:** The selection of a suitable function from all possible hypotheses to approximate the data, ensuring optimal parameter choices for the model.
+
+3. **Evaluation:** The process of optimizing the objective function, where each algorithm generates a model by considering a specific set of model parameters.
+
+These concepts are fundamental in understanding the underlying mechanisms and operations of machine learning algorithms. 
+
 ## General Steps in Machine Learning
 
 Machine learning involves several key steps:
