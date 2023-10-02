@@ -1,6 +1,7 @@
 print("Hello, World!") #This is a comment
 
 # python variables
+
 x = 5
 y = "testing"
 print(x)
