@@ -82,3 +82,18 @@ Rescaling data aims to ensure that the values of data variables have the same sc
 Categorical variables can be either nominal (with no inherent order) or ordinal (with a specified order). Methods for handling them include:
 - Integer encoding, where each categorical value is represented by a number.
 - One-hot encoding, where each categorical value is represented as a vector of numbers, with one value being 1 to denote the category.
+
+## Handling Multicollinearity
+
+Multicollinearity occurs when there is a strong correlation or relationship between two or more independent variables in a model. It can lead to problems in model interpretation and affect the stability of model coefficients. Here are some common strategies to address multicollinearity:
+
+- **Feature Selection:** Identify and remove one or more highly correlated variables from the model. This reduces redundancy in the model and can improve its stability.
+
+- **Principal Component Analysis (PCA):** PCA is a dimensionality reduction technique that can be used to transform correlated variables into a smaller set of uncorrelated variables, known as principal components.
+
+- **Combining Variables:** If possible, combine highly correlated variables into a single composite variable that retains the important information while reducing multicollinearity.
+
+- **VIF (Variance Inflation Factor):** Calculate the VIF for each variable to measure the extent of multicollinearity. Variables with high VIF values may need to be addressed.
+
+It's also important to note that the inaccurate use of dummy variables, especially when multiple dummy variables are included in the model, can introduce multicollinearity. Careful handling of dummy variables and their interpretation is necessary to avoid this issue.
+
