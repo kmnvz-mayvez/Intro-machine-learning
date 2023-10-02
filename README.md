@@ -45,3 +45,9 @@ Unsupervised learning has various applications, including customer segmentation,
 Reinforcement learning is a learning method that is based on rewarding desirable or undesirable decisions. Reinforcement learning is a technique that focuses on how agents or entities learn to make decisions to achieve certain goals. The agent interacts with the environment, takes actions, and receives rewards or punishments in response to its actions. The main goal of reinforcement learning is to learn policies that maximize rewards in the long term.
 
 Reinforcement learning has wide applications, including in the development of intelligent systems for controlling computer games, autonomous cars, and robotics.
+
+## Factors that Can Contribute to Low Machine Learning Performance
+- Errors in the selection of the training model.
+- Errors in hyperparameter tuning.
+- Inaccurate initial parameter values.
+- Insufficient or low-quality training data, referred to as underfitting, or an excess of data causing overfitting.
