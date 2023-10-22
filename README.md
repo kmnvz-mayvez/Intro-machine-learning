@@ -109,3 +109,9 @@ Multicollinearity occurs when there is a strong correlation or relationship betw
 
 It's also important to note that the inaccurate use of dummy variables, especially when multiple dummy variables are included in the model, can introduce multicollinearity. Careful handling of dummy variables and their interpretation is necessary to avoid this issue.
 
+# Deep learning 
+
+Deep learning is a subfield within machine learning that focuses on the development of algorithms and computational models inspired by the structure and function of the human brain, known as artificial neural networks. Deep learning is primarily used to process complex and large datasets, such as images, text, and sound.
+
+The key characteristic of deep learning is the use of deep and complex neural network architectures, consisting of many layers or nodes. These layers form a hierarchy that allows the model to automatically extract higher-level features from the input data gradually. In deep learning, these models learn autonomously through a training process, without the need for human supervision to determine relevant features
+
