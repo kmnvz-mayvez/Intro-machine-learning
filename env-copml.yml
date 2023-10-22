@@ -5,6 +5,8 @@ channels:
 - anaconda 
 
 dependencies:
+# TensorFlow
+- tensorflow==2.14.0
 # Essential
 - python==3.9
 - nb_conda_kernels==2.3.1
