@@ -1,6 +1,13 @@
 print("Hello, World!") #This is a comment
 
-# Python variables
+
+
+# --------------------------------- #
+#                                   #
+#         Python variables          #
+#                                   #
+# --------------------------------- #
+
 x = 5
 y = "testing"
 print(x)
@@ -26,7 +33,11 @@ myfunc()
 
 print("Python is " + x)
 
-# Python data types
+# --------------------------------- #
+#                                   #
+#         Python datatypes          #
+#                                   #
+# --------------------------------- #
 
 x = str("Hello World")                        # str
 x = int(20)                                   # int
@@ -43,7 +54,11 @@ x = bytes(5)                                  # bytes
 x = bytearray(5)                              # bytearray
 x = memoryview(bytes(5))                      # memoryview
 
-# Python Number
+# --------------------------------- #
+#                                   #
+#         Python numbers            #
+#                                   #
+# --------------------------------- #
 
 x = 1    # int
 y = 2.8  # float
