@@ -1,7 +1,5 @@
 print("Hello, World!") #This is a comment
 
-
-
 # --------------------------------- #
 #                                   #
 #         Python variables          #
@@ -85,7 +83,12 @@ print(type(b))
 print(type(c))
 print(type(k))
 
-# python casting
+# --------------------------------- #
+#                                   #
+#         Python casting            #
+#                                   #
+# --------------------------------- #
+
 
 z = 4.2 
 
